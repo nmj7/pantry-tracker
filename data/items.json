@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "Rice", "category": "Grains", "quantity": 2, "unit": "kg" },
+    { "id": 2, "name": "Beans", "category": "Legumes", "quantity": 1, "unit": "kg" }
+  ]
+  
